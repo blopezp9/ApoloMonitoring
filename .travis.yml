@@ -17,4 +17,4 @@ bedore_script:
   - php artisan migrate
 
 script: 
-  - vendor/bin/phpunit
+- vendor/bin/phpunit
